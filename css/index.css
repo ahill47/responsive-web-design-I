@@ -215,7 +215,7 @@ footer {
       width: 100%;
   }
   header .logo{
-
+    margin: 0 auto;
       padding: 20px;
       align-self: center;
   }
@@ -310,7 +310,7 @@ footer{
         
       }
       header .logo{
-         margin:auto;   
+         margin:0 auto;   
       }
       .main .blocks {
           display:flex;
